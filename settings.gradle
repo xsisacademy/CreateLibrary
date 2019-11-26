@@ -1,0 +1,2 @@
+include ':app', ':registrasipenduduk'
+rootProject.name='Registrasi Penduduk'

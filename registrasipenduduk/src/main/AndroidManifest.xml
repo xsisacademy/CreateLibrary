@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ore.registrasipenduduk">
+
+    <application>
+        <activity android:name=".FormRegistrasi3"></activity>
+        <activity android:name=".FormRegistrasi2" />
+        <activity android:name=".FormRegistrasiPenduduk" />
+    </application>
+
+</manifest>
